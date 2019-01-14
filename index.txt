@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <title>Andrew Plesniak CS334 Spring 2019</title>
+	  
+</head>
+
+<body bgcolor= #deeff5>
+	
+	<h1>Andrew Plesniak - CS334 Labs</h1>
+	<ol>
+		<li><a href=#>Lab One</a></li>
+		<li>Lab Two</li>
+		<li>Lab Three</li>
+		<li>Lab Four</li>
+		<li>Lab Five</li>
+		<li>Lab Six</li>
+		<li>Lab Seven</li>
+		<li>Lab Eight</li>
+		<li>Lab Nine</li>
+		<li>Lab Ten</li>
+		<li>Final Project</li>
+	</ol>
+	<p><a href="index.txt">Source Code</a></p>
+</body>
+
+</html>
