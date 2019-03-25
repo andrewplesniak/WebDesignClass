@@ -1,0 +1,1 @@
+SELECT streetAddress1, city, state from SALESPERSON WHERE firstname = 'Zach' AND lastname = 'Choi';

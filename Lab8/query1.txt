@@ -1,0 +1,1 @@
+SELECT firstName, lastName from CUSTOMER;
